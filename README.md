@@ -1,6 +1,15 @@
-# Hi there, I'm Thanut Jongteerathanachote 👋
+<!-- Animated header -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,100:36BCF7&height=200&section=header&text=Thanut%20Jongteerathanachote&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Computer%20Engineering%20%40%20CDTI&descAlignY=58&descSize=18" alt="header" width="100%" />
+</p>
 
-<p align="left">
+<p align="center">
+  <a href="https://github.com/winxtxrgit">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Thanut+%F0%9F%91%8B;3rd-Year+Computer+Engineering+%40+CDTI;AI+%2B+Full-Stack+%2B+Raspberry+Pi;Open-source+contributor+%F0%9F%8C%8D" alt="Typing SVG" />
+  </a>
+</p>
+
+<p align="center">
   <img src="https://komarev.com/ghpvc/?username=winxtxrgit&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
@@ -27,27 +36,10 @@
 
 ### 🛠️ Tech Stack & Tooling
 
-<p align="left">
-  <!-- Languages -->
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <br/>
-  <!-- Frameworks & Data -->
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" />
-  <br/>
-  <!-- DevOps & Tools -->
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" />
-  <img src="https://img.shields.io/badge/Raspberry_Pi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=py,ts,js,html,css,bash&perline=6" alt="Languages" /><br/>
+  <img src="https://skillicons.dev/icons?i=nextjs,react,flask,fastapi,sqlite,nginx&perline=6" alt="Frameworks" /><br/>
+  <img src="https://skillicons.dev/icons?i=git,github,linux,raspberrypi,vscode&perline=6" alt="Tools" />
 </p>
 
 ---
@@ -72,7 +64,25 @@
 
 ---
 
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=winxtxrgit&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=winxtxrgit&layout=compact&theme=tokyonight&hide_border=true" height="165" alt="Top languages" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=winxtxrgit&theme=tokyonight&hide_border=true" alt="GitHub streak" />
+</p>
+
+---
+
 ### 📫 Connect with Me
 
 - 📧 **Email:** [winxtxr.github@gmail.com](mailto:winxtxr.github@gmail.com)
 - 🌐 **GitHub:** [@winxtxrgit](https://github.com/winxtxrgit)
+
+<!-- Animated footer -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:36BCF7,100:0e75b6&height=120&section=footer&animation=fadeIn" alt="footer" width="100%" />
+</p>
