@@ -21,7 +21,7 @@
 3rd-year **Computer Engineering** student at **Chitralada Technology Institute (CDTI)**, Bangkok. I build AI products that stay explainable, dig through data until the answer shows up, and contribute to open source.
 
 - 🤖 **AI products:** Built *FutureMe AI*, career & study guidance for Thai students on the principle **"Rules decide. AI explains."** A transparent scoring engine makes the decision; the LLM interviews and explains.
-- 🔎 **Data & forensics:** Traced a 19-IP botnet through a 1.4 GB / 21M-line access log with `awk` / `grep` / `sed`, then presented it in an offline dashboard.
+- 🔎 **Data & forensics:** Traced a 19-IP botnet through a 1.4 GB / 21M-line access log with `awk` / `grep` / `sed`, then presented it in an offline dashboard. That investigation became [loghunt](https://github.com/winxtxrgit/loghunt).
 - 🍓 **Hardware & home lab:** Raspberry Pi 5 lab running Python services for dashboards and market monitoring.
 - 🌍 **Open source:** Shipped the 🇹🇭 Thailand connectivity list and Thai README for [MyIP](https://github.com/jason5ng32/MyIP); more below.
 
@@ -32,6 +32,7 @@
 | Project | What it is | Stack |
 | :--- | :--- | :--- |
 | 🚀 **[FutureMe AI](https://github.com/winxtxrgit/futureme-ai)** | Career & study guidance for Thai students: a Socratic interview, a real task, and three routes with the reasoning shown. **Finalist, JUMP Thailand Hackathon 2026** | `TypeScript` `Next.js` `Python` |
+| 🔎 **[loghunt](https://github.com/winxtxrgit/loghunt)** | Hunts bots, scanners and botnets in nginx/apache access logs, explaining every flagged IP. Groups IPs that run the same script to catch low-and-slow botnets; HTML report, JSON and blocklist output. No dependencies | `Python` `Security` `CLI` |
 | 🇹🇭 **[git-cheatsheet-th](https://github.com/winxtxrgit/git-cheatsheet-th)** | Thai Git cheat sheet: everyday commands plus "it broke, now what?" fixes, with search and copy buttons. **[Open the site →](https://winxtxrgit.github.io/git-cheatsheet-th/)** | `Git` `JavaScript` `GitHub Pages` |
 | 🕵️ **[Hackathon_Cdti](https://github.com/winxtxrgit/Hackathon_Cdti)** | *The Silent Threat*: incident-response forensics on 21M log lines to unmask a botnet, plus *E-Nose* odor detection with machine learning | `Bash` `awk` `Python` `Jupyter` |
 | 🎨 **[webappflowchart](https://github.com/winxtxrgit/webappflowchart)** | Architecture & work plan for a distributed AI image-generation web app across 4 machines and a team of 4 | `Nginx` `Flask` `SQLite` `Mermaid` |
