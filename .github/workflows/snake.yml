@@ -1,4 +1,4 @@
-# Generates the contribution-graph snake shown in README.md and pushes it to the `output` branch.
+# Generates the growing contribution snake shown in README.md and pushes it to the `output` branch.
 name: Generate snake
 
 on:
@@ -16,12 +16,13 @@ jobs:
     runs-on: ubuntu-latest
     timeout-minutes: 5
     steps:
-      - uses: Platane/snk/svg-only@v3
+      # Pinned to the v1 commit (reviewed): grows one segment per contribution cell it eats.
+      - uses: dahan8473/snake-and-commits@c55d1f1668e849195f395a9d93c56e74b68aaac2 # v1
         with:
-          github_user_name: ${{ github.repository_owner }}
-          outputs: |
-            dist/github-snake.svg
-            dist/github-snake-dark.svg?palette=github-dark
+          github_user: ${{ github.repository_owner }}
+          output: dist/snake.svg
+          theme: blue
+          frame: "true"
 
       - name: Push the snake to the output branch
         uses: crazy-max/ghaction-github-pages@v5

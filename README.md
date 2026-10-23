@@ -80,11 +80,7 @@
 ### 🐍 Contribution Snake
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/winxtxrgit/winxtxrgit/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/winxtxrgit/winxtxrgit/output/github-snake.svg" />
-    <img alt="Snake eating my contribution graph" src="https://raw.githubusercontent.com/winxtxrgit/winxtxrgit/output/github-snake.svg" />
-  </picture>
+  <img alt="A snake that grows as it eats my contribution graph" src="https://raw.githubusercontent.com/winxtxrgit/winxtxrgit/output/snake.svg" width="100%" />
 </p>
 
 ---
