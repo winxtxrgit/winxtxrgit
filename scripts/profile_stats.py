@@ -21,7 +21,7 @@ query($login: String!) {
     pullRequests { totalCount }
     merged: pullRequests(states: MERGED) { totalCount }
     issues { totalCount }
-    contributionsCollection { totalCommitContributions restrictedContributionsCount }
+    contributionsCollection { totalCommitContributions }
     repositoriesContributedTo(contributionTypes: [COMMIT, PULL_REQUEST, ISSUE, REPOSITORY]) { totalCount }
     repositories(ownerAffiliations: OWNER, isFork: false, first: 100) {
       nodes {
@@ -79,8 +79,8 @@ def summarize(user):
     contributions = user["contributionsCollection"]
     stats = [
         ("star", "Stars earned", sum(r["stargazerCount"] for r in repos)),
-        ("commit", "Commits (last year)",
-         contributions["totalCommitContributions"] + contributions["restrictedContributionsCount"]),
+        # Public commits only: restrictedContributionsCount mixes private PRs and issues in.
+        ("commit", "Commits (last year)", contributions["totalCommitContributions"]),
         ("pr", "Pull requests", user["pullRequests"]["totalCount"]),
         ("merged", "Merged pull requests", user["merged"]["totalCount"]),
         ("issue", "Issues", user["issues"]["totalCount"]),
