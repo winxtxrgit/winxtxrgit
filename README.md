@@ -71,19 +71,12 @@
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=winxtxrgit&show_icons=true&hide_rank=true&count_private=true&hide_border=true&theme=default&title_color=0e75b6&icon_color=0e75b6" />
-    <img src="https://github-readme-stats.vercel.app/api?username=winxtxrgit&show_icons=true&hide_rank=true&count_private=true&hide_border=true&theme=tokyonight" height="165" alt="GitHub stats: stars, commits, pull requests, issues and contributions" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/winxtxrgit/winxtxrgit/output/stats-light.svg" />
+    <img src="https://raw.githubusercontent.com/winxtxrgit/winxtxrgit/output/stats-dark.svg" height="165" alt="GitHub stats: stars, commits, pull requests, merged pull requests, issues and repositories contributed to" />
   </picture>
   <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=winxtxrgit&layout=compact&hide_border=true&theme=default&title_color=0e75b6" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=winxtxrgit&layout=compact&hide_border=true&theme=tokyonight" height="165" alt="Most used languages" />
-  </picture>
-</p>
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=winxtxrgit&theme=default&hide_border=true&ring=0e75b6&fire=0e75b6&currStreakLabel=0e75b6" />
-    <img src="https://streak-stats.demolab.com?user=winxtxrgit&theme=tokyonight&hide_border=true" alt="Contribution streak" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/winxtxrgit/winxtxrgit/output/langs-light.svg" />
+    <img src="https://raw.githubusercontent.com/winxtxrgit/winxtxrgit/output/langs-dark.svg" height="165" alt="Most used languages" />
   </picture>
 </p>
 
