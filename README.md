@@ -13,7 +13,6 @@
   <a href="mailto:winxtxr.github@gmail.com"><img src="https://img.shields.io/badge/Email-winxtxr.github%40gmail.com-0e75b6?style=flat-square&logo=gmail&logoColor=white" alt="Email winxtxr.github@gmail.com" /></a>
   <img src="https://img.shields.io/badge/Bangkok-UTC%2B7-0e75b6?style=flat-square&logo=googlemaps&logoColor=white" alt="Based in Bangkok, UTC+7" />
   <img src="https://img.shields.io/badge/Open_to-collaboration-2ea44f?style=flat-square" alt="Open to collaboration" />
-  <img src="https://komarev.com/ghpvc/?username=winxtxrgit&label=Profile%20views&color=0e75b6&style=flat-square" alt="Profile views" />
 </p>
 
 ### 👋 About Me
