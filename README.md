@@ -4,12 +4,6 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/winxtxrgit">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Thanut+%F0%9F%91%8B;3rd-Year+Computer+Engineering+%40+CDTI;AI+%2B+Full-Stack+%2B+Raspberry+Pi;Open-source+contributor+%F0%9F%8C%8D" alt="Hi there, I'm Thanut. 3rd-year Computer Engineering at CDTI. AI, full-stack and Raspberry Pi. Open-source contributor." />
-  </a>
-</p>
-
-<p align="center">
   <a href="mailto:winxtxr.github@gmail.com"><img src="https://img.shields.io/badge/Email-winxtxr.github%40gmail.com-0e75b6?style=flat-square&logo=gmail&logoColor=white" alt="Email winxtxr.github@gmail.com" /></a>
   <img src="https://img.shields.io/badge/Bangkok-UTC%2B7-0e75b6?style=flat-square&logo=googlemaps&logoColor=white" alt="Based in Bangkok, UTC+7" />
   <img src="https://img.shields.io/badge/Open_to-collaboration-2ea44f?style=flat-square" alt="Open to collaboration" />
