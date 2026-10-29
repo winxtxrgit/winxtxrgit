@@ -15,7 +15,7 @@
 
 - 🤖 **AI products:** Built *FutureMe AI*, career & study guidance for Thai students on the principle **"Rules decide. AI explains."** A transparent scoring engine makes the decision; the LLM interviews and explains.
 - 🔎 **Data & forensics:** Traced a 19-IP botnet through a 1.4 GB / 21M-line access log with `awk` / `grep` / `sed`, then presented it in an offline dashboard. That investigation became [loghunt](https://github.com/winxtxrgit/loghunt).
-- 🍓 **Hardware & home lab:** Raspberry Pi 5 lab running Python services for dashboards and market monitoring.
+- 🏠 **Hardware & IoT:** Built an [ESP32 smart-home dashboard](https://github.com/winxtxrgit/smart-home-esp32) — Firebase realtime control of lights and a fan with live sensor readings. Also run a Raspberry Pi 5 lab with Python services for dashboards and market monitoring.
 - 🌍 **Open source:** Shipped the 🇹🇭 Thailand connectivity list and Thai README for [MyIP](https://github.com/jason5ng32/MyIP); more below.
 
 ---
@@ -29,6 +29,7 @@
 | 🇹🇭 **[git-cheatsheet-th](https://github.com/winxtxrgit/git-cheatsheet-th)** | Thai Git cheat sheet: everyday commands plus "it broke, now what?" fixes, with search and copy buttons. **[Open the site →](https://winxtxrgit.github.io/git-cheatsheet-th/)** | `Git` `JavaScript` `GitHub Pages` |
 | 🛡️ **[honeyfile](https://github.com/winxtxrgit/honeyfile)** | Plants decoy files and alerts the moment ransomware or an intruder modifies, deletes or opens them. A tripwire for file shares and backups; terminal, JSON, webhook and exec alerts. No dependencies | `Python` `Security` `CLI` |
 | 🕵️ **[Hackathon_Cdti](https://github.com/winxtxrgit/Hackathon_Cdti)** | *The Silent Threat*: incident-response forensics on 21M log lines to unmask a botnet, plus *E-Nose* odor detection with machine learning | `Bash` `awk` `Python` `Jupyter` |
+| 🏠 **[smart-home-esp32](https://github.com/winxtxrgit/smart-home-esp32)** | IoT smart-home dashboard: control lights and a fan and log temperature, humidity and light in real time. ESP32 publishes to Firebase; a responsive web app reads and commands back. Vocational (ปวช.) graduation project | `ESP32` `Firebase` `JavaScript` |
 | 🎨 **[webappflowchart](https://github.com/winxtxrgit/webappflowchart)** | Architecture & work plan for a distributed AI image-generation web app across 4 machines and a team of 4 | `Nginx` `Flask` `SQLite` `Mermaid` |
 
 ---
