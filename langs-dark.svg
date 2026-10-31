@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="420" height="195" viewBox="0 0 420 195" role="img" aria-label="Most used languages: HTML 46.3%, TypeScript 24.3%, Python 18.7%, JavaScript 7.4%, CSS 2.9%, C++ 0.2%">
+<title>Most used languages: HTML 46.3%, TypeScript 24.3%, Python 18.7%, JavaScript 7.4%, CSS 2.9%, C++ 0.2%</title>
+<rect x="0.5" y="0.5" width="419" height="194" rx="6" fill="#0d1117" stroke="#30363d"/>
+<text x="25" y="35" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', sans-serif" font-size="18" font-weight="600" fill="#36bcf7">Most Used Languages</text>
+<clipPath id="bar"><rect x="25" y="55" width="370" height="8" rx="4"/></clipPath>
+<g clip-path="url(#bar)"><rect x="25" y="55" width="370" height="8" fill="#21262d"/><rect x="25.00" y="55" width="171.13" height="8" fill="#e34c26"/><rect x="196.13" y="55" width="89.76" height="8" fill="#3178c6"/><rect x="285.89" y="55" width="69.09" height="8" fill="#3572A5"/><rect x="354.97" y="55" width="27.55" height="8" fill="#f1e05a"/><rect x="382.52" y="55" width="10.67" height="8" fill="#663399"/><rect x="393.19" y="55" width="0.79" height="8" fill="#f34b7d"/></g>
+<circle cx="30" cy="90" r="5" fill="#e34c26"/><text x="42" y="95" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', sans-serif" font-size="13" fill="#c9d1d9">HTML <tspan fill="#8b949e">46.3%</tspan></text>
+<circle cx="220" cy="90" r="5" fill="#3178c6"/><text x="232" y="95" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', sans-serif" font-size="13" fill="#c9d1d9">TypeScript <tspan fill="#8b949e">24.3%</tspan></text>
+<circle cx="30" cy="120" r="5" fill="#3572A5"/><text x="42" y="125" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', sans-serif" font-size="13" fill="#c9d1d9">Python <tspan fill="#8b949e">18.7%</tspan></text>
+<circle cx="220" cy="120" r="5" fill="#f1e05a"/><text x="232" y="125" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', sans-serif" font-size="13" fill="#c9d1d9">JavaScript <tspan fill="#8b949e">7.4%</tspan></text>
+<circle cx="30" cy="150" r="5" fill="#663399"/><text x="42" y="155" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', sans-serif" font-size="13" fill="#c9d1d9">CSS <tspan fill="#8b949e">2.9%</tspan></text>
+<circle cx="220" cy="150" r="5" fill="#f34b7d"/><text x="232" y="155" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', sans-serif" font-size="13" fill="#c9d1d9">C++ <tspan fill="#8b949e">0.2%</tspan></text>
+</svg>
