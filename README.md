@@ -15,6 +15,7 @@
 
 - 🤖 **AI products:** Built *FutureMe AI*, career & study guidance for Thai students on the principle **"Rules decide. AI explains."** A transparent scoring engine makes the decision; the LLM interviews and explains.
 - 🔎 **Data & forensics:** Traced a 19-IP botnet through a 1.4 GB / 21M-line access log with `awk` / `grep` / `sed`, then presented it in an offline dashboard. That investigation became [loghunt](https://github.com/winxtxrgit/loghunt).
+- 🛡️ **Security & explainable AI:** [honeyfile](https://github.com/winxtxrgit/honeyfile) (on [PyPI](https://pypi.org/project/honeyfile/)) plants decoy files that raise an alert the moment ransomware or an intruder touches them. [glassbox](https://github.com/winxtxrgit/glassbox) makes an LLM quote its evidence word-for-word and flags quotes the source never contained; [glassbox-action](https://github.com/winxtxrgit/glassbox-action) runs that check in CI.
 - 🏠 **Hardware & IoT:** Built an [ESP32 smart-home dashboard](https://github.com/winxtxrgit/smart-home-esp32) — Firebase realtime control of lights and a fan with live sensor readings. Also run a Raspberry Pi 5 lab with Python services for dashboards and market monitoring.
 - 🌍 **Open source:** Shipped the 🇹🇭 Thailand connectivity list and Thai README for [MyIP](https://github.com/jason5ng32/MyIP); more below.
 
