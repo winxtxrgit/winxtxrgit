@@ -29,11 +29,8 @@
 | 🔎 **[loghunt](https://github.com/winxtxrgit/loghunt)** | Hunts bots, scanners and botnets in nginx/apache access logs, explaining every flagged IP. Groups IPs that run the same script to catch low-and-slow botnets; HTML report, JSON and blocklist output. No dependencies | `Python` `Security` `CLI` |
 | 🇹🇭 **[git-cheatsheet-th](https://github.com/winxtxrgit/git-cheatsheet-th)** | Thai Git cheat sheet: everyday commands plus "it broke, now what?" fixes, with search and copy buttons. **[Open the site →](https://winxtxrgit.github.io/git-cheatsheet-th/)** | `Git` `JavaScript` `GitHub Pages` |
 | 🛡️ **[honeyfile](https://github.com/winxtxrgit/honeyfile)** | Plants decoy files and alerts the moment ransomware or an intruder modifies, deletes or opens them. A tripwire for file shares and backups; terminal, JSON, webhook and exec alerts. No dependencies · `pipx install honeyfile` · **[On PyPI →](https://pypi.org/project/honeyfile/)** | `Python` `Security` `CLI` |
-| 🔬 **[glassbox](https://github.com/winxtxrgit/glassbox)** | Explainable LLM triage: every claim must quote the source word-for-word, and quotes the document never contained get flagged. Also erases cited evidence to test whether the verdict really depends on it. Runs locally on open-weights models; no dependencies · `pipx install glassbox-audit` · **[On PyPI →](https://pypi.org/project/glassbox-audit/)** | `Python` `LLM` `Ollama` |
-| ⚙️ **[glassbox-action](https://github.com/winxtxrgit/glassbox-action)** | GitHub Action that runs a glassbox audit in CI: the step fails when an LLM verdict cites evidence the document doesn't contain, or doesn't really depend on what it quoted. Gates a PR the way a failing test does · `uses: winxtxrgit/glassbox-action@v1` | `GitHub Actions` `LLM` `CI` |
+| 🔬 **[glassbox](https://github.com/winxtxrgit/glassbox)** | Explainable LLM triage: every claim must quote the source word-for-word, and quotes the document never contained get flagged. Also erases cited evidence to test whether the verdict really depends on it. Runs locally on open-weights models; no dependencies · `pipx install glassbox-audit` · **[On PyPI →](https://pypi.org/project/glassbox-audit/)** · [glassbox-action](https://github.com/winxtxrgit/glassbox-action) runs it in CI | `Python` `LLM` `Ollama` |
 | 🕵️ **[Hackathon_Cdti](https://github.com/winxtxrgit/Hackathon_Cdti)** | *The Silent Threat*: incident-response forensics on 21M log lines to unmask a botnet, plus *E-Nose* odor detection with machine learning | `Bash` `awk` `Python` `Jupyter` |
-| 🏠 **[smart-home-esp32](https://github.com/winxtxrgit/smart-home-esp32)** | IoT smart-home dashboard: control lights and a fan and log temperature, humidity and light in real time. ESP32 publishes to Firebase; a responsive web app reads and commands back. Vocational (ปวช.) graduation project | `ESP32` `Firebase` `JavaScript` |
-| 🎨 **[webappflowchart](https://github.com/winxtxrgit/webappflowchart)** | Architecture & work plan for a distributed AI image-generation web app across 4 machines and a team of 4 | `Nginx` `Flask` `SQLite` `Mermaid` |
 
 ---
 
@@ -78,13 +75,4 @@
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/winxtxrgit/winxtxrgit/output/langs-light.svg" />
     <img src="https://raw.githubusercontent.com/winxtxrgit/winxtxrgit/output/langs-dark.svg" height="165" alt="Most used languages" />
   </picture>
-</p>
-
-<p align="center">
-  <img alt="A snake that grows as it eats my contribution graph" src="https://raw.githubusercontent.com/winxtxrgit/winxtxrgit/output/snake.svg" width="100%" />
-</p>
-
-<!-- Animated footer -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:36BCF7,100:0e75b6&height=120&section=footer&animation=fadeIn" alt="" width="100%" />
 </p>
