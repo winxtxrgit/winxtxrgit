@@ -1,5 +1,5 @@
-# Generates the images shown in README.md (growing contribution snake, stats and
-# top-languages cards) and pushes them to the `output` branch.
+# Generates the images shown in README.md (stats and top-languages cards) and
+# pushes them to the `output` branch.
 name: Generate profile images
 
 on:
@@ -18,14 +18,6 @@ jobs:
     timeout-minutes: 5
     steps:
       - uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
-
-      # Pinned to the v1 commit (reviewed): grows one segment per contribution cell it eats.
-      - uses: dahan8473/snake-and-commits@c55d1f1668e849195f395a9d93c56e74b68aaac2 # v1
-        with:
-          github_user: ${{ github.repository_owner }}
-          output: dist/snake.svg
-          theme: blue
-          frame: "true"
 
       - name: Render stats and language cards
         run: python3 scripts/profile_stats.py "${{ github.repository_owner }}" dist
